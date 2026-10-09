@@ -1,0 +1,11 @@
+district,month,season,temperature_c,humidity_pct,pressure_hpa,wind_speed_kmh,wind_direction,cloud_cover_okta,rain_today_mm
+Kurunegala,11,Second Inter-monsoon,26.5,79.2,1003.7,14.2,SW,7.0,0.0
+Colombo,4,First Inter-monsoon,29.0,74.0,1007.0,29.1,W,6.5,21.5
+Jaffna,5,SW Monsoon,29.8,66.0,1009.3,16.1,SW,0.0,0.0
+Anuradhapura,12,NE Monsoon,26.2,79.5,1007.9,20.1,SE,4.6,36.5
+Jaffna,3,First Inter-monsoon,30.6,62.0,1011.0,6.5,NW,3.9,0.0
+Nuwara Eliya,1,NE Monsoon,15.4,46.9,1007.4,1.4,NE,5.5,0.0
+Badulla,12,NE Monsoon,23.3,74.7,1005.9,4.8,NE,2.4,19.6
+Jaffna,1,NE Monsoon,29.1,84.3,1009.2,11.8,N,8.0,4.7
+Kandy,11,Second Inter-monsoon,22.9,92.1,1007.6,31.7,N,,16.1
+Jaffna,3,First Inter-monsoon,28.1,72.0,1011.1,6.1,W,2.8,23.4
